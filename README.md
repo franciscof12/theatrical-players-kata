@@ -1,4 +1,4 @@
-# 🎭 Theatrical Players Kata 🎭
+# 🎭 Theatrical Players Kotlin Kata 🎭
 
 ## **Introduction**
 This Kata was inspired by the book *Refactoring* by **Martin Fowler**, a must-read for developers looking to improve their code through **incremental, safe, and structured changes**.
